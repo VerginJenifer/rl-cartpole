@@ -153,10 +153,11 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
     return Q, V, pi
 ```
 ## OUTPUT:
-1. Specify the average number of steps achieved within two minutes when the Monte Carlo (MC) control algorithm is initiated with zero-initialized Q-values..
-2. Mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
+<img width="1729" height="145" alt="image" src="https://github.com/user-attachments/assets/ee238f4f-4cd4-4c72-90ec-5fddde97aef2" />
+<img width="1737" height="225" alt="image" src="https://github.com/user-attachments/assets/d3844b70-c15d-44db-a8a6-0eea939c6b93" />
+
 <img width="861" height="608" alt="image" src="https://github.com/user-attachments/assets/39ea27c2-5669-4977-992e-6f6126aa659c" />
 
 ## RESULT:
 
-Write your result here
+Thus, a Python program is developed to find the optimal policy for the given cart-pole environment using the Monte Carlo algorithm.
